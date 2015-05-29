@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CreateMethodObject\CreateMethodObjectTests.cs" />
+    <Compile Include="CreateMethodObject\IAuthenticate.cs" />
+    <Compile Include="CreateMethodObject\LogInWidget.cs" />
     <Compile Include="SimplifyObjectCreation\Pupil.cs" />
     <Compile Include="SimplifyObjectCreation\PupilFinder.cs" />
     <Compile Include="SimplifyObjectCreation\ResultsReader.cs" />
@@ -56,6 +59,7 @@
     <Compile Include="SimplifyObjectCreation\PupilDetailsReader.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CreateMethodObject\README.md" />
     <None Include="ExtractMethod\README.md" />
     <None Include="packages.config" />
     <None Include="SimplifyObjectCreation\README.md" />
