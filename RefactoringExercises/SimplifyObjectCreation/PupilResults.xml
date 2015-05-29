@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pupils>
+  <pupil number="41">
+    <results>
+      <result>
+        <subject>Maths</subject>
+        <grade>B</grade>
+      </result>
+      <result>
+        <subject>English</subject>
+        <grade>C</grade>
+      </result>
+      <result>
+        <subject>Music</subject>
+        <grade>A</grade>
+      </result>
+      <result>
+        <subject>Hopping, skipping and jumping</subject>
+        <grade>A*</grade>
+      </result>
+      <result>
+        <subject>Running</subject>
+        <grade>D</grade>
+      </result>
+    </results>
+  </pupil>
+  <pupil number="42">
+    <results>
+      <result>
+        <subject>Maths</subject>
+        <grade>C</grade>
+      </result>
+      <result>
+        <subject>English</subject>
+        <grade>A</grade>
+      </result>
+      <result>
+        <subject>Music</subject>
+        <grade>B</grade>
+      </result>
+      <result>
+        <subject>Hopping, skipping and jumping</subject>
+        <grade>C</grade>
+      </result>
+      <result>
+        <subject>Running</subject>
+        <grade>A*</grade>
+      </result>
+    </results>
+  </pupil>
+  <pupil number="43">
+    <results>
+      <result>
+        <subject>Maths</subject>
+        <grade>A</grade>
+      </result>
+      <result>
+        <subject>English</subject>
+        <grade>B</grade>
+      </result>
+      <result>
+        <subject>Music</subject>
+        <grade>B</grade>
+      </result>
+      <result>
+        <subject>Hopping, skipping and jumping</subject>
+        <grade>D</grade>
+      </result>
+      <result>
+        <subject>Running</subject>
+        <grade>C</grade>
+      </result>
+    </results>
+  </pupil>
+</pupils>
